@@ -1,0 +1,24 @@
+05:06:09.919 [main] INFO  testcases.TC_001_LoginTest - Login data is entered
+05:06:09.925 [main] INFO  testcases.TC_001_LoginTest - Login button clicked
+05:06:09.951 [main] INFO  testcases.TC_001_LoginTest - Login is successful for: performance_glitch_user
+05:06:10.124 [main] INFO  testcases.TC_001_LoginTest - *******Login Test Finished *********
+05:06:10.127 [main] INFO  testcases.TC_001_LoginTest - *********Login Test started **********
+05:06:10.415 [main] INFO  testcases.TC_001_LoginTest - Login data is entered
+05:06:10.416 [main] INFO  testcases.TC_001_LoginTest - Login button clicked
+05:06:10.444 [main] INFO  testcases.TC_001_LoginTest - Login is successful for: error_user
+05:06:10.601 [main] INFO  testcases.TC_001_LoginTest - *******Login Test Finished *********
+05:06:10.605 [main] INFO  testcases.TC_001_LoginTest - *********Login Test started **********
+05:06:10.896 [main] INFO  testcases.TC_001_LoginTest - Login data is entered
+05:06:10.896 [main] INFO  testcases.TC_001_LoginTest - Login button clicked
+05:06:20.939 [main] INFO  testcases.TC_001_LoginTest - Login is not successful: performance_glitch_user
+05:06:20.940 [main] INFO  testcases.TC_001_LoginTest - *******Login Test Finished *********
+05:06:20.945 [main] INFO  testcases.TC_001_LoginTest - *********Login Test started **********
+05:06:21.253 [main] INFO  testcases.TC_001_LoginTest - Login data is entered
+05:06:21.253 [main] INFO  testcases.TC_001_LoginTest - Login button clicked
+05:06:31.326 [main] INFO  testcases.TC_001_LoginTest - Login is not successful: locked_out_user
+05:06:31.327 [main] INFO  testcases.TC_001_LoginTest - *******Login Test Finished *********
+05:06:31.330 [main] INFO  testcases.TC_001_LoginTest - *********Login Test started **********
+05:06:31.613 [main] INFO  testcases.TC_001_LoginTest - Login data is entered
+05:06:31.613 [main] INFO  testcases.TC_001_LoginTest - Login button clicked
+05:06:41.680 [main] INFO  testcases.TC_001_LoginTest - Login is not successful: error_user
+05:06:41.681 [main] INFO  testcases.TC_001_LoginTest - *******Login Test Finished *********

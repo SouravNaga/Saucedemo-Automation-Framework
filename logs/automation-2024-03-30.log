@@ -1,0 +1,57 @@
+04:58:39.629 [main] INFO  testcases.TC_001_LoginTest - *******Login Test Finished *********
+05:02:10.035 [main] INFO  testcases.TC_001_LoginTest - *********Login Test started **********
+05:02:10.486 [main] INFO  testcases.TC_001_LoginTest - Login data is entered
+05:02:10.487 [main] INFO  testcases.TC_001_LoginTest - Login button clicked
+05:02:10.598 [main] INFO  testcases.TC_001_LoginTest - Login is successful for: standard_user
+05:02:10.889 [main] INFO  testcases.TC_001_LoginTest - *******Login Test Finished *********
+05:02:10.895 [main] INFO  testcases.TC_001_LoginTest - *********Login Test started **********
+05:02:11.219 [main] INFO  testcases.TC_001_LoginTest - Login data is entered
+05:02:11.219 [main] INFO  testcases.TC_001_LoginTest - Login button clicked
+05:02:21.312 [main] INFO  testcases.TC_001_LoginTest - Login is not successful: locked_out_user
+05:02:21.312 [main] INFO  testcases.TC_001_LoginTest - *******Login Test Finished *********
+05:02:21.315 [main] INFO  testcases.TC_001_LoginTest - *********Login Test started **********
+05:02:21.631 [main] INFO  testcases.TC_001_LoginTest - Login data is entered
+05:02:21.633 [main] INFO  testcases.TC_001_LoginTest - Login button clicked
+05:02:21.664 [main] INFO  testcases.TC_001_LoginTest - Login is successful for: problem_user
+05:02:21.873 [main] INFO  testcases.TC_001_LoginTest - *******Login Test Finished *********
+05:02:21.876 [main] INFO  testcases.TC_001_LoginTest - *********Login Test started **********
+05:02:27.168 [main] INFO  testcases.TC_001_LoginTest - Login data is entered
+05:02:27.168 [main] INFO  testcases.TC_001_LoginTest - Login button clicked
+05:02:27.194 [main] INFO  testcases.TC_001_LoginTest - Login is successful for: performance_glitch_user
+05:02:27.370 [main] INFO  testcases.TC_001_LoginTest - *******Login Test Finished *********
+05:02:27.374 [main] INFO  testcases.TC_001_LoginTest - *********Login Test started **********
+05:02:27.668 [main] INFO  testcases.TC_001_LoginTest - Login data is entered
+05:02:27.668 [main] INFO  testcases.TC_001_LoginTest - Login button clicked
+05:02:27.693 [main] INFO  testcases.TC_001_LoginTest - Login is successful for: error_user
+05:02:27.853 [main] INFO  testcases.TC_001_LoginTest - *******Login Test Finished *********
+05:02:27.855 [main] INFO  testcases.TC_001_LoginTest - *********Login Test started **********
+05:02:28.149 [main] INFO  testcases.TC_001_LoginTest - Login data is entered
+05:02:28.149 [main] INFO  testcases.TC_001_LoginTest - Login button clicked
+05:02:38.237 [main] INFO  testcases.TC_001_LoginTest - Login is not successful: performance_glitch_user
+05:02:38.238 [main] INFO  testcases.TC_001_LoginTest - *******Login Test Finished *********
+05:02:38.242 [main] INFO  testcases.TC_001_LoginTest - *********Login Test started **********
+05:02:38.539 [main] INFO  testcases.TC_001_LoginTest - Login data is entered
+05:02:38.540 [main] INFO  testcases.TC_001_LoginTest - Login button clicked
+05:02:48.590 [main] INFO  testcases.TC_001_LoginTest - Login is not successful: locked_out_user
+05:02:48.591 [main] INFO  testcases.TC_001_LoginTest - *******Login Test Finished *********
+05:02:48.594 [main] INFO  testcases.TC_001_LoginTest - *********Login Test started **********
+05:02:48.880 [main] INFO  testcases.TC_001_LoginTest - Login data is entered
+05:02:48.881 [main] INFO  testcases.TC_001_LoginTest - Login button clicked
+05:02:58.912 [main] INFO  testcases.TC_001_LoginTest - Login is not successful: error_user
+05:02:58.912 [main] INFO  testcases.TC_001_LoginTest - *******Login Test Finished *********
+05:05:52.701 [main] INFO  testcases.TC_001_LoginTest - *********Login Test started **********
+05:05:53.210 [main] INFO  testcases.TC_001_LoginTest - Login data is entered
+05:05:53.216 [main] INFO  testcases.TC_001_LoginTest - Login button clicked
+05:05:53.327 [main] INFO  testcases.TC_001_LoginTest - Login is successful for: standard_user
+05:05:53.596 [main] INFO  testcases.TC_001_LoginTest - *******Login Test Finished *********
+05:05:53.599 [main] INFO  testcases.TC_001_LoginTest - *********Login Test started **********
+05:05:53.883 [main] INFO  testcases.TC_001_LoginTest - Login data is entered
+05:05:53.883 [main] INFO  testcases.TC_001_LoginTest - Login button clicked
+05:06:03.947 [main] INFO  testcases.TC_001_LoginTest - Login is not successful: locked_out_user
+05:06:03.948 [main] INFO  testcases.TC_001_LoginTest - *******Login Test Finished *********
+05:06:03.950 [main] INFO  testcases.TC_001_LoginTest - *********Login Test started **********
+05:06:04.333 [main] INFO  testcases.TC_001_LoginTest - Login data is entered
+05:06:04.333 [main] INFO  testcases.TC_001_LoginTest - Login button clicked
+05:06:04.375 [main] INFO  testcases.TC_001_LoginTest - Login is successful for: problem_user
+05:06:04.613 [main] INFO  testcases.TC_001_LoginTest - *******Login Test Finished *********
+05:06:04.616 [main] INFO  testcases.TC_001_LoginTest - *********Login Test started **********
