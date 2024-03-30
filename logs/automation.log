@@ -1,24 +1,33 @@
-05:06:09.919 [main] INFO  testcases.TC_001_LoginTest - Login data is entered
-05:06:09.925 [main] INFO  testcases.TC_001_LoginTest - Login button clicked
-05:06:09.951 [main] INFO  testcases.TC_001_LoginTest - Login is successful for: performance_glitch_user
-05:06:10.124 [main] INFO  testcases.TC_001_LoginTest - *******Login Test Finished *********
-05:06:10.127 [main] INFO  testcases.TC_001_LoginTest - *********Login Test started **********
-05:06:10.415 [main] INFO  testcases.TC_001_LoginTest - Login data is entered
-05:06:10.416 [main] INFO  testcases.TC_001_LoginTest - Login button clicked
-05:06:10.444 [main] INFO  testcases.TC_001_LoginTest - Login is successful for: error_user
-05:06:10.601 [main] INFO  testcases.TC_001_LoginTest - *******Login Test Finished *********
-05:06:10.605 [main] INFO  testcases.TC_001_LoginTest - *********Login Test started **********
-05:06:10.896 [main] INFO  testcases.TC_001_LoginTest - Login data is entered
-05:06:10.896 [main] INFO  testcases.TC_001_LoginTest - Login button clicked
-05:06:20.939 [main] INFO  testcases.TC_001_LoginTest - Login is not successful: performance_glitch_user
-05:06:20.940 [main] INFO  testcases.TC_001_LoginTest - *******Login Test Finished *********
-05:06:20.945 [main] INFO  testcases.TC_001_LoginTest - *********Login Test started **********
-05:06:21.253 [main] INFO  testcases.TC_001_LoginTest - Login data is entered
-05:06:21.253 [main] INFO  testcases.TC_001_LoginTest - Login button clicked
-05:06:31.326 [main] INFO  testcases.TC_001_LoginTest - Login is not successful: locked_out_user
-05:06:31.327 [main] INFO  testcases.TC_001_LoginTest - *******Login Test Finished *********
-05:06:31.330 [main] INFO  testcases.TC_001_LoginTest - *********Login Test started **********
-05:06:31.613 [main] INFO  testcases.TC_001_LoginTest - Login data is entered
-05:06:31.613 [main] INFO  testcases.TC_001_LoginTest - Login button clicked
-05:06:41.680 [main] INFO  testcases.TC_001_LoginTest - Login is not successful: error_user
-05:06:41.681 [main] INFO  testcases.TC_001_LoginTest - *******Login Test Finished *********
+09:21:12.310 [main] INFO  testcases.EndToEnd_Test - Product added to cart
+09:21:12.399 [main] INFO  testcases.EndToEnd_Test - Cart page opened successfully
+09:21:12.476 [main] INFO  testcases.EndToEnd_Test - Product Checkout successfully
+09:21:12.563 [main] INFO  testcases.EndToEnd_Test - First Name entered successfully
+09:21:12.647 [main] INFO  testcases.EndToEnd_Test - Last Name entered successfully
+09:21:12.731 [main] INFO  testcases.EndToEnd_Test - Zip Code entered successfully
+09:21:12.965 [main] INFO  testcases.EndToEnd_Test - Item Name: Sauce Labs Backpack
+09:21:12.987 [main] INFO  testcases.EndToEnd_Test - Item Quantity: 1
+09:21:13.010 [main] INFO  testcases.EndToEnd_Test - Payment Information:SauceCard #31337
+09:21:13.034 [main] INFO  testcases.EndToEnd_Test - Shipping Information:Free Pony Express Delivery!
+09:21:13.056 [main] INFO  testcases.EndToEnd_Test - Price Total: Total: $32.39
+09:21:13.115 [main] INFO  testcases.EndToEnd_Test - Finish button clicked successfully
+09:21:13.167 [main] INFO  testcases.EndToEnd_Test - Confirmation message : Thank you for your order!
+09:21:13.240 [main] INFO  testcases.EndToEnd_Test - Back to home page
+09:21:13.240 [main] INFO  testcases.EndToEnd_Test - ********End to End testing Finished********
+09:25:43.870 [main] INFO  testcases.EndToEnd_Test - ********End to End testing started********
+09:25:44.286 [main] INFO  testcases.EndToEnd_Test - login user name entered
+09:25:44.286 [main] INFO  testcases.EndToEnd_Test - login password entered
+09:25:44.364 [main] INFO  testcases.EndToEnd_Test - Product added to cart
+09:25:44.444 [main] INFO  testcases.EndToEnd_Test - Cart page opened successfully
+09:25:44.527 [main] INFO  testcases.EndToEnd_Test - Product Checkout successfully
+09:25:44.616 [main] INFO  testcases.EndToEnd_Test - First Name entered successfully
+09:25:44.699 [main] INFO  testcases.EndToEnd_Test - Last Name entered successfully
+09:25:44.781 [main] INFO  testcases.EndToEnd_Test - Zip Code entered successfully
+09:25:45.020 [main] INFO  testcases.EndToEnd_Test - Item Name: Sauce Labs Backpack
+09:25:45.040 [main] INFO  testcases.EndToEnd_Test - Item Quantity: 1
+09:25:45.064 [main] INFO  testcases.EndToEnd_Test - Payment Information:SauceCard #31337
+09:25:45.084 [main] INFO  testcases.EndToEnd_Test - Shipping Information:Free Pony Express Delivery!
+09:25:45.107 [main] INFO  testcases.EndToEnd_Test - Price Total: Total: $32.39
+09:25:45.169 [main] INFO  testcases.EndToEnd_Test - Finish button clicked successfully
+09:25:45.220 [main] INFO  testcases.EndToEnd_Test - Confirmation message : Thank you for your order!
+09:25:45.304 [main] INFO  testcases.EndToEnd_Test - Back to home page
+09:25:45.304 [main] INFO  testcases.EndToEnd_Test - ********End to End testing Finished********

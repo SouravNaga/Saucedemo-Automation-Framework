@@ -56,4 +56,14 @@ public class productsPage extends BasePage{
 		navbar.click();
 		logout_link.click();
 	}
+	
+	public void clickAddToCart()
+	{
+		addtocart_btn.click();
+	}
+	
+	public void clickCarticon()
+	{
+		cart_btn.click();
+	}
 }

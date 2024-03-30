@@ -1,189 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-30T05:05:47 PDT" name="Suite" finished-at="2024-03-30T05:06:42 PDT" duration-ms="54860">
+  <suite started-at="2024-03-30T09:25:38 PDT" name="Suite" finished-at="2024-03-30T09:25:50 PDT" duration-ms="11936">
     <groups>
     </groups>
-    <test started-at="2024-03-30T05:05:47 PDT" name="Test" finished-at="2024-03-30T05:06:42 PDT" duration-ms="54860">
-      <class name="testcases.TC_001_LoginTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.TC_001_LoginTest@6a192cfe]" started-at="2024-03-30T05:05:47 PDT" name="setup" finished-at="2024-03-30T05:05:51 PDT" duration-ms="3658" status="PASS">
+    <test started-at="2024-03-30T09:25:38 PDT" name="Test" finished-at="2024-03-30T09:25:50 PDT" duration-ms="11936">
+      <class name="testcases.EndToEnd_Test">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcases.EndToEnd_Test@20ce78ec]" started-at="2024-03-30T09:25:38 PDT" name="setup" finished-at="2024-03-30T09:25:42 PDT" duration-ms="4327" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verify_login_functionality(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_001_LoginTest@6a192cfe]" started-at="2024-03-30T05:05:52 PDT" name="verify_login_functionality" data-provider="LoginData1" finished-at="2024-03-30T05:05:53 PDT" duration-ms="904" status="PASS">
+        <test-method signature="endtoendtest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.EndToEnd_Test@20ce78ec]" started-at="2024-03-30T09:25:43 PDT" name="endtoendtest" data-provider="userinformationData" finished-at="2024-03-30T09:25:45 PDT" duration-ms="1440" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[standard_user]]>
+                <![CDATA[Sourav]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[secret_sauce]]>
+                <![CDATA[Naga]]>
               </value>
             </param>
             <param index="2">
               <value>
-                <![CDATA[valid]]>
+                <![CDATA[712413]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verify_login_functionality -->
-        <test-method signature="verify_login_functionality(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_001_LoginTest@6a192cfe]" started-at="2024-03-30T05:05:53 PDT" name="verify_login_functionality" data-provider="LoginData1" finished-at="2024-03-30T05:06:03 PDT" duration-ms="10350" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[locked_out_user]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[secret_sauce]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[invalid]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verify_login_functionality -->
-        <test-method signature="verify_login_functionality(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_001_LoginTest@6a192cfe]" started-at="2024-03-30T05:06:03 PDT" name="verify_login_functionality" data-provider="LoginData1" finished-at="2024-03-30T05:06:04 PDT" duration-ms="664" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[problem_user]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[secret_sauce]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[valid]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verify_login_functionality -->
-        <test-method signature="verify_login_functionality(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_001_LoginTest@6a192cfe]" started-at="2024-03-30T05:06:04 PDT" name="verify_login_functionality" data-provider="LoginData1" finished-at="2024-03-30T05:06:10 PDT" duration-ms="5510" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[performance_glitch_user]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[secret_sauce]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[valid]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verify_login_functionality -->
-        <test-method signature="verify_login_functionality(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_001_LoginTest@6a192cfe]" started-at="2024-03-30T05:06:10 PDT" name="verify_login_functionality" data-provider="LoginData1" finished-at="2024-03-30T05:06:10 PDT" duration-ms="476" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[error_user]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[secret_sauce]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[valid]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verify_login_functionality -->
-        <test-method signature="verify_login_functionality(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_001_LoginTest@6a192cfe]" started-at="2024-03-30T05:06:10 PDT" name="verify_login_functionality" data-provider="LoginData1" finished-at="2024-03-30T05:06:20 PDT" duration-ms="10337" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[performance_glitch_user]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[secret_sauce2]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[invalid]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verify_login_functionality -->
-        <test-method signature="verify_login_functionality(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_001_LoginTest@6a192cfe]" started-at="2024-03-30T05:06:20 PDT" name="verify_login_functionality" data-provider="LoginData1" finished-at="2024-03-30T05:06:31 PDT" duration-ms="10384" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[locked_out_user]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[secret_sauce3]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[invalid]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verify_login_functionality -->
-        <test-method signature="verify_login_functionality(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_001_LoginTest@6a192cfe]" started-at="2024-03-30T05:06:31 PDT" name="verify_login_functionality" data-provider="LoginData1" finished-at="2024-03-30T05:06:41 PDT" duration-ms="10352" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[error_user]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[secret_sauce4]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[invalid]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verify_login_functionality -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.TC_001_LoginTest@6a192cfe]" started-at="2024-03-30T05:06:41 PDT" name="teardown" finished-at="2024-03-30T05:06:42 PDT" duration-ms="692" status="PASS">
+        </test-method> <!-- endtoendtest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.EndToEnd_Test@20ce78ec]" started-at="2024-03-30T09:25:45 PDT" name="teardown" finished-at="2024-03-30T09:25:50 PDT" duration-ms="5194" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-      </class> <!-- testcases.TC_001_LoginTest -->
+      </class> <!-- testcases.EndToEnd_Test -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

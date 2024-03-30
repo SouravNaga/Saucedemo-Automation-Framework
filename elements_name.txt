@@ -15,3 +15,34 @@ addtocart_btn
 prod_img
 prod_title
 prod_price
+
+
+YourcartPage elements
+-----------------------
+continue_shopping_btn
+checkout_btn
+remove_btn
+
+checkoutYourInformationPage elements
+--------------------------------------
+cancel_btn
+firstname
+lastname
+zipcode
+continue_btn
+error_field
+
+overviewPage
+--------------
+cancel_btn
+finish_btn
+payment_info
+shipping_info
+total_price
+item_name
+
+
+completePage
+--------------
+confirm_msg
+BackHome_btn
