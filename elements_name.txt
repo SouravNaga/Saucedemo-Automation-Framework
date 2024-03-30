@@ -1,0 +1,17 @@
+loginPage elements
+------------------
+username
+password
+login_btn
+
+
+productsPage elements
+----------------------
+navbar
+heading
+filter
+cart
+addtocart_btn
+prod_img
+prod_title
+prod_price
